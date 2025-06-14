@@ -5,7 +5,6 @@ This project implements a text mining solution for stock sentiment analysis.
 ## Project Structure
 
 ```
-├── README.md                    # Project documentation
 ├── tm_final_01.ipynb           # Final Model Notebook
 ├── tm_tests1_01.ipynb          # Main Work Notebook
 ├── tm_tests2_01.ipynb          # Extra Work Notebook 1

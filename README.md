@@ -18,7 +18,7 @@ This project implements a text mining solution for stock sentiment analysis.
 
 ## Results
 
-Model predictions are saved in [Test Predictions/] with the latest results in [pred_01.csv].
+Models prediction is saved in [Test Predictions] with the latest results as [pred_01.csv].
 
 ## Requirements
 
